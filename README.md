@@ -1,5 +1,13 @@
-# MoniOS
-我叫范栗恺,系统是非常重要也是安装系统是必选的.
-MoniOS系统愿意吧......
-制作过程在"MoniOSczxtrj"里
-目前尚未完工......
+# MoniOS编译指南
+###1.安装Hype-v
+#####kerbroad`win+s`
+#####输入“启用或关闭windows功能”
+#####勾选虚拟机平台和Hype-v虚拟机
+#####点击确认后重启系统
+###2.安装Ubuntu
+#####省略1080个字
+###3.编译
+#####打开终端，输入以下命令
+#####bash`apt install nasm python3 binutils -y`
+#####
+
