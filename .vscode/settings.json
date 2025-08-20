@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "file.h": "c",
+        "string.h": "c",
+        "shutdown.h": "c",
+        "net.h": "c",
+        "common.h": "c",
+        "gdtidt.h": "c",
+        "fifo.h": "c",
+        "audio.h": "c"
+    }
+}
